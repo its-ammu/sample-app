@@ -8,5 +8,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(port, () => {
-  console.log(`Server running succesfull`);
+  console.log(`Server running`);
 });
